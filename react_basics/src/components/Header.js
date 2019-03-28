@@ -12,10 +12,10 @@ import React from 'react';
 //   }
 // }
 
-const Header = () => {
+const Header = (props) => {
   return(
     <header>
-      <p>This is the Header</p>
+      <p>{props.pageTitle}</p>
     </header>
   )
 }
