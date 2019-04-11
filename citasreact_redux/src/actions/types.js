@@ -1,0 +1,7 @@
+export const SHOW_APPOINTMENTS = 'SHOW_APPOINTMENTS';
+export const CREATE_APPOINTMENT = 'CREATE_APPOINTMENT';
+export const DELETE_APPOINTMENT = 'DELETE_APPOINTMENT';
+
+// Validate the form
+export const VALIDATE_FORM = 'VALIDATE_FORM';
+export const SHOW_ERROR = 'SHOW_ERROR';
